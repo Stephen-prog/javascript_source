@@ -2,9 +2,18 @@
 // console.log(x);
 // x = 7;
 let x = 7;
+
 x = 6;
+
 x = 5;
+
 x = 4;
+
+const name= "name";
+
+
+
+
 let y = 3;
 let z = x + y;
 console.log('answer: ' + z);

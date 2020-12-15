@@ -2,10 +2,10 @@
 
 //Assignment =
 //Arithmetic + - * / %
-/*
+
 var m = 10 % 3;
 console.log(m);
-*/
+
 // Increment / Decrement ++ --
 /*
 var a = 2;

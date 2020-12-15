@@ -5,7 +5,7 @@ function sayHello(){
     console.log('-----------');
 }*/
 
-//sayHello();
+//sayHello();su
 /*
 let a = sayHello;
 a();
